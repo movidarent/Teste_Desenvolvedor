@@ -317,4 +317,4 @@
 
 
 # Terminei e agora?
->Vamos analisar e testar, 24 horas após o envio o recebimento do email vou dar um feedback, positivo ou negativo.
+>Vamos analisar e testar, vamos dar um feedback, positivo ou negativo.
