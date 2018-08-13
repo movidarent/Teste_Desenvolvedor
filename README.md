@@ -11,6 +11,7 @@
 >* Bootstrap
 
 ## 1° Crie um endpoit que retorne o seguinte json 
+> Você deve montar o json com o php;
 
 ```javascript
 {
