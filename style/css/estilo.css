@@ -1,0 +1,9 @@
+.container {
+	margin-top: 10%;
+}
+
+.borda {
+	border-style: solid;
+	border-width: 3px;
+	margin-bottom: 5px;
+}
