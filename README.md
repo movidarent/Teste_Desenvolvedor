@@ -312,7 +312,8 @@
 }
 ```
 
-## 2° Crie um front(view) que busque o json via ajax e mostre os dados na tela, use o movida.com.br **lembre que neste json tem apenas um veiculo porem posso querer testar com mais de um**
+## 2° Crie um front(view) que busque o json via ajax e mostre os dados na tela, use como referencia o movida.com.br.
+**lembre que neste json tem apenas um veiculo porem posso querer testar com mais de um**
 
 >### Sugira correções e melhorias no json, sintase livre pra usare fazer o que vier a fazer
 
